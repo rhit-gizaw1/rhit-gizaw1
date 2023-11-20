@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, My Name is Abe Gizaw 👋
 
-<!--
-**rhit-gizaw1/rhit-gizaw1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently a junior Software Engineering major at Rose-Hulman   
 
-Here are some ideas to get you started:
+- 🧩 Was a Google Step intern this past Summer!
+  -  Worked on the Firebase Team. Made a website as a side project using Firebase: sites2cwebsite (repo on my personal account)
+  
+- ⚡ Fun fact: I play on the Varsity Football team here at Rose  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 To see some of my personal projects I've worked on, visit my other Github account: [https://github.com/rhit-gizaw1  ](https://github.com/abeGizaw)
+
+- 🤔 I’m currently looking for Summer 2024 internships
+
+- 📫 How to reach me:
+  -   Gmail: gizawabe3@gmail.com
+  -   Linkedin: https://www.linkedin.com/in/abe-gizaw/
