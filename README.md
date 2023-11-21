@@ -7,7 +7,7 @@
   
 - ⚡ Fun fact: I play on the Varsity Football team here at Rose 
 
-- 🔭 To see some of my personal projects, visit my other Github account: [https://github.com/rhit-gizaw1  ](https://github.com/abeGizaw)
+- 🔭 To see a cumulation of my personal and school projects, visit my other Github account: [https://github.com/rhit-gizaw1  ](https://github.com/abeGizaw)
 
 - 🤔 I’m currently looking for Summer 2024 internships
 
