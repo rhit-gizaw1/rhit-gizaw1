@@ -9,7 +9,7 @@
 
 - 🔭 To see a cumulation of my personal and school projects, visit my other Github account: [https://github.com/rhit-gizaw1  ](https://github.com/abeGizaw)
 
-- 🤔 I’m currently looking for Summer 2024 internships
+- 📽️ I will be a Netflix SWE intern this summer on the Content Promotion & Distribution team!
 
 - 📫 How to reach me:
   -   Gmail: gizawabe3@gmail.com
