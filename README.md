@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **about Artificial Intelligence and Computer Architecture**
 
-- 👨‍💻 All of my projects are available here or on my school account [rhit-gizaw1](https://github.com/rhit-gizaw1)
+- 👨‍💻 All of my projects are available here or on my personal account [abeGizaw](https://github.com/abeGizaw)
 
 - 📫 How to reach me:
   -   Gmail: **gizawabe3@gmail.com**
