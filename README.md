@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abegizaw&label=Profile%20views&color=0e75b6&style=flat" alt="abegizaw" /> </p>
 
-- 🔭 I’m currently working on [Sudoku solver using AI](https://github.com/abeGizaw/Ai-Sudoku)
+- 🔭 Most Recent work: I recently finished working on a [Sudoku solver using DLX (Will enhance to use AI in the future)](https://github.com/abeGizaw/Ai-Sudoku)
 
-- 🌱 I’m currently learning **about Artificial Intelligence and Computer Architecture**
+- 🌱 I’m currently learning **about Artificial Intelligence and Formal Methods**
 
-- 👨‍💻 All of my projects are available here or on my personal account [abeGizaw](https://github.com/abeGizaw)
+- 👨‍💻 Most of my projects are available on  my personal account [abeGizaw](https://github.com/abeGizaw)
 
 - 📫 How to reach me:
   -   Gmail: **gizawabe3@gmail.com**
@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **Was a Google Step intern this past Summer!**
     -  Worked on the Firebase Team. Made a website as a side project using Firebase: [sites2cwebsite](https://github.com/abeGizaw/sites2cwebsite)
+ 
+- ☀️ This summer I will be working at Netflix as a SWE intern on the Content Promotion and Distribution Team
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
